@@ -1,4 +1,4 @@
-@Library('jenkins-shared-lib') _   // <-- load your shared library (name from Jenkins config)
+@Library('jenkins-shared-lib') _   // load your shared library
 
 properties([
     parameters([
